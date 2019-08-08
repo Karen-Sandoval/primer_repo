@@ -1,2 +1,4 @@
 *.dat
 !dato1.dat
+*.csv
+
